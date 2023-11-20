@@ -7,7 +7,7 @@ public class DoWhileTable8 {
         {
                 System.out.println("8 *" +i+ "=" +i*8); i++;
         }
-            while(i <=20);
+            while(i <=40);
         }
     }
 
